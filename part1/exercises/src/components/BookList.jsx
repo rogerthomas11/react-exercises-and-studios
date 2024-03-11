@@ -1,3 +1,5 @@
+import './BookList.module.css';
+
 export default function BookList() {
    let pageTitle = "Some Great Books";
    let book1 = "https://i.thriftbooks.com/api/imagehandler/l/D0A1B8C00BBE8E205A957155795383C3817B5128.jpeg";
