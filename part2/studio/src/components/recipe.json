@@ -13,6 +13,22 @@
        "heavy cream",
        "milk"
      ]
-   }
+   },
+
+   {
+    "name": "Pasta Primavera",
+    "author": "Stephanie Melchione",
+    "description": "This restaurant-quality pasta primavera has a delicious herb cream sauce with penne pasta and a ton of fresh vegetables. This is the best way to get your family to eat their veggies!",
+    "website": "https://thecozycook.com/pasta-primavera/",
+    "recipeImage": "https://thecozycook.com/wp-content/uploads/2024/02/Pasta-Primavera-1-.jpg",
+    "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+    "ingredients": [
+      "uncooked ziti",
+      "garlic",
+      "frozen peas",
+      "lemon juice",
+      "olive oil"
+    ]
+  }
  ]
  
