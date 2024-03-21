@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Collecting Hockey Cards</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>It's a great way to learn more about your favorite players and teams</li>
+            <li>There is no wrong way to collect! Collecting the cards you like is all that matters</li>
+            <li>There are tons of different eras and brands with their own special edition cards</li>
          </ol>
       </div>
    );
